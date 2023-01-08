@@ -1,0 +1,33 @@
+#increment-btn {
+  background-color: rgb(83, 119, 249);
+}
+
+#save-btn {
+  background-color: darkgoldenrod;
+}
+
+button {
+  font-size: larger;
+  font-weight: bolder;
+  border: 2px solid black;
+  
+}
+body {
+  background-image: url(img_bg_1.jpg);
+  text-align: center;
+  font:bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400;
+}
+p{
+  font-weight: 400;
+}
+.counter {
+background-color: white;
+max-width: 80%;
+margin: auto;
+border: 3px solid black;
+border-radius: 15px;
+
+
+}
